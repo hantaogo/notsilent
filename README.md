@@ -1,11 +1,3 @@
 # notsilent
 
-a chat tool, very safe!
-
-## frontend
-
-web
-
-## backend
-
-server
+a chat tool, very very very safe!
