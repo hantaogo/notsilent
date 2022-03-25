@@ -6,7 +6,7 @@
 
 ## install
 
-- 安装 `npm install`
+- install: `npm install`
 
 ## commands
 - start dev server: `npm run dev`
